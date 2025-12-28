@@ -144,7 +144,8 @@ Monitoring and logging using Azure services
 ---
 ## 👤 Author
 
-Ash
+Ashutosh Santosh Rane
+
 AI / ML Engineer | Azure AI
 
 
