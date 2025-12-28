@@ -86,7 +86,7 @@ The application is packaged using Docker and deployed on Microsoft Azure, ensuri
 ### Step 1: Build the image
 ```cmd
 docker build -t <your-app-name> .
-docker run -p 8501:8501 claim-ai-app
+docker run -p 8501:8501 <your-app-name>
 ```
 ### Step 2: Azure CLI Login
 ```cmd
