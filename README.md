@@ -142,6 +142,14 @@ Advanced fraud scoring with historical data
 Role-based access for reviewers
 
 Monitoring and logging using Azure services
+
+---
+## 🔒 Resource Cleanup Note
+
+This project was successfully deployed and validated on Microsoft Azure.
+After completing testing and recording the application demo, all Azure resources (App Service, container, and related services) were deleted to optimize cloud costs.
+The application can be redeployed at any time using the same codebase and configuration.
+
 ---
 ## 👤 Author
 
